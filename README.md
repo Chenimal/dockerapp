@@ -5,7 +5,7 @@ sample go lang 3 layers app run on top of docker
 ### Prerequisite
 - Docker version 18.03.1-ce or later
 - Go 1.10.1 or later
-- Google Maps API Key
+- Put Google Maps API Key in `files/config/main.ini:Key`
 
 ### Build & Installation
 ```sh

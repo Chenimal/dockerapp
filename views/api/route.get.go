@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/febytanzil/dockerapp/services/route"
 	"github.com/gorilla/mux"
-	"github.com/tokopedia/transactionapp/core/log"
+	"log"
 	"net/http"
 	"net/url"
 )
